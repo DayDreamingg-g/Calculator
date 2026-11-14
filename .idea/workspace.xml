@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d276004-012d-4462-af30-004ca7ed70e3" name="Changes" comment="" />
+    <list default="true" id="5d276004-012d-4462-af30-004ca7ed70e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +20,88 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7671416261419237" />
+      <entry key="MS500" value="4.764924932468639" />
+      <entry key="S2" value="8.648921201098805" />
+      <entry key="S5" value="10.414913844726977" />
+      <entry key="S10" value="11.159712013398908" />
+      <entry key="S30" value="12.51457155160269" />
+      <entry key="S60" value="18.129472313179168" />
+      <entry key="M2" value="36.15737056602199" />
+      <entry key="M5" value="83.43767822294882" />
+      <entry key="M10" value="121.94798576367316" />
+      <entry key="M15" value="140.05261246535068" />
+      <entry key="M30" value="161.7957469667635" />
+      <entry key="H1" value="174.28160564139006" />
+      <entry key="H2" value="180.9786960058912" />
+      <entry key="H4" value="184.44776806568237" />
+      <entry key="D1" value="187.4020946163733" />
+      <entry key="W1" value="187.9144400578863" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.486513740116236E-119" />
+      <entry key="S2" value="2.8379375822769552E-30" />
+      <entry key="S5" value="1.5186553211342468E-12" />
+      <entry key="S10" value="1.2620079008471926E-6" />
+      <entry key="S30" value="0.01382863131342347" />
+      <entry key="S60" value="0.15929198203730388" />
+      <entry key="M2" value="0.5578959800180576" />
+      <entry key="M5" value="1.1967377907844838" />
+      <entry key="M10" value="1.5463462028758035" />
+      <entry key="M15" value="1.68461868470229" />
+      <entry key="M30" value="1.8354505828784977" />
+      <entry key="H1" value="1.9159341052867904" />
+      <entry key="H2" value="1.9575093158253711" />
+      <entry key="H4" value="1.978638956723247" />
+      <entry key="D1" value="1.9964236478169126" />
+      <entry key="W1" value="1.9994886949167023" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.711122988222707" />
+      <entry key="MS500" value="4.705339333951777" />
+      <entry key="S2" value="8.617940464474078" />
+      <entry key="S5" value="10.399608132437782" />
+      <entry key="S10" value="11.151429741120822" />
+      <entry key="S30" value="12.52001368697886" />
+      <entry key="S60" value="18.264774607106762" />
+      <entry key="M2" value="36.67275748405116" />
+      <entry key="M5" value="84.59138510411525" />
+      <entry key="M10" value="123.46379014294348" />
+      <entry key="M15" value="141.71421879376564" />
+      <entry key="M30" value="163.6181534640273" />
+      <entry key="H1" value="176.1905872376927" />
+      <entry key="H2" value="182.93261508480134" />
+      <entry key="H4" value="186.42458257034318" />
+      <entry key="D1" value="189.3982100415468" />
+      <entry key="W1" value="189.9138846184617" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3M75oDJnAyqr0BrsCJWe6LFmM3g" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,7 +116,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794688938127</updated>
-      <workItem from="1794688939191" duration="1000" />
+      <workItem from="1794688939191" duration="118000" />
+      <workItem from="1794689085506" duration="345000" />
+      <workItem from="1794689437261" duration="305000" />
     </task>
     <servers />
   </component>
