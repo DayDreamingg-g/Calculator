@@ -11,31 +11,32 @@ def main():
               "\n4. Divide first number with second number"
               "\n5. Exit the program")
 
-        choose = int(input("Input number of operation you want to do: "))
+        choose = input("Input number of operation you want to do: ")
+        
 
         if choose in ("1", "1."):
-            a = input("Enter first number: ")
-            b = input("Enter second number: ")
+            a = int(input("Enter first number: "))
+            b = int(input("Enter second number: "))
             plus(a, b)
 
         elif choose in ("2", "2."):
-            a = input("Enter first number: ")
-            b = input("Enter second number: ")
+            a = int(input("Enter first number: "))
+            b = int(input("Enter second number: "))
             minus(a, b)
         elif choose in ("3", "3."):
-            a = input("Enter first number: ")
-            b = input("Enter second number: ")
+            a = int(input("Enter first number: "))
+            b = int(input("Enter second number: "))
             multiple(a, b)
         elif choose in ("4", "4."):
-            a = input("Enter first number: ")
-            b = input("Enter second number: ")
+            a = int(input("Enter first number: "))
+            b = int(input("Enter second number: "))
             divide(a, b)
         elif choose in ("5", "5."):
             break
 
 
 def plus(a, b):
-    result = a + b
+    result = (a + b)
     print(f"The result of operation: {result}")
     return
 
